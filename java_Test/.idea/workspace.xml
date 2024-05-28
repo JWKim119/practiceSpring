@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6adc01c8-f77c-441d-b52b-cce8babc7d13" name="변경" comment="">
+      <change afterPath="$PROJECT_DIR$/../HSMALL/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HSMALL/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HSMALL/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HSMALL/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HSMALL/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HSMALL/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HSMALL/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HSMALL/src/main/java/com/example/hsmall/HsmallApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HSMALL/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HSMALL/src/test/java/com/example/hsmall/HsmallApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaRevise/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaRevise/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaRevise/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaRevise/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaRevise/JavaRevise.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaRevise/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectE/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectE/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectE/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectE/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectE/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectE/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectE/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectE/src/main/java/com/jaewon/ProjectE/ProjectEApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectE/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectE/src/main/resources/static/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectE/src/test/java/com/jaewon/ProjectE/ProjectEApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello-spring/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello-spring/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello-spring/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello-spring/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello-spring/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello-spring/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello-spring/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello-spring/src/main/java/hello/hellospring/HelloSpringApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello-spring/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello-spring/src/test/java/hello/hellospring/HelloSpringApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test01/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test01/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test01/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test01/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test01/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test01/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test01/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test01/src/main/java/com/jaewon/test01/Test01Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test01/src/main/java/model/Seat_userInfo_DTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test01/src/main/resources/application-db.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test01/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test01/src/main/resources/global.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test01/src/test/java/Controller/HomeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test01/src/test/java/com/jaewon/test01/Test01ApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/src/main/java/com/spring/test/TestApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/src/test/java/com/spring/test/TestApplicationTests.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="0e8e9c72-d0d7-4d1a-b268-4398d20c974c" />
+        <option name="url" value="https://github.com/JWKim119/ProjectE.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="ProjectId" id="2bcFcbYp5VjnP7UMuGVw3zgr9Ap" />
+  <component name="ProjectViewState">
+    <option name="flattenPackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/Spring/java_Test",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "onboarding.tips.debug.path": "D:/Spring/java_Test/src/Main.java",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="애플리케이션.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="java_Test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution" />
+      <module name="java_Test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="java_Test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="java_Test" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="애플리케이션.Main" />
+        <item itemvalue="애플리케이션.Solution" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="6adc01c8-f77c-441d-b52b-cce8babc7d13" name="변경" comment="" />
+      <created>1706506542105</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1706506542105</updated>
+      <workItem from="1706506543107" duration="1341000" />
+      <workItem from="1709165266944" duration="11353000" />
+      <workItem from="1709531953284" duration="2285000" />
+      <workItem from="1710309589650" duration="2103000" />
+      <workItem from="1710461691708" duration="3069000" />
+      <workItem from="1711326838046" duration="1303000" />
+      <workItem from="1711591572822" duration="2345000" />
+      <workItem from="1712030414630" duration="599000" />
+      <workItem from="1712103777235" duration="3189000" />
+      <workItem from="1712189012398" duration="838000" />
+      <workItem from="1712282176528" duration="6626000" />
+      <workItem from="1712622376531" duration="3354000" />
+      <workItem from="1712803555962" duration="6319000" />
+      <workItem from="1712880244670" duration="1156000" />
+      <workItem from="1713166012413" duration="321000" />
+      <workItem from="1713227295825" duration="1203000" />
+      <workItem from="1713830954560" duration="3050000" />
+      <workItem from="1713916970060" duration="1217000" />
+      <workItem from="1714380848608" duration="423000" />
+      <workItem from="1714710967636" duration="138000" />
+      <workItem from="1714711354780" duration="910000" />
+      <workItem from="1715043401416" duration="1806000" />
+      <workItem from="1715147886142" duration="636000" />
+      <workItem from="1715233539443" duration="1208000" />
+      <workItem from="1715299885321" duration="458000" />
+      <workItem from="1715649241794" duration="234000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

@@ -1,0 +1,78 @@
+package com.gjcompany.accountbook.home.controller;
+
+import com.gjcompany.accountbook.home.dto.AccountDTO;
+import com.gjcompany.accountbook.home.service.HomeService;
+import jakarta.servlet.http.HttpSession;
+import lombok.extern.log4j.Log4j2;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Controller;
+import org.springframework.ui.Model;
+import org.springframework.ui.ModelMap;
+import org.springframework.web.bind.annotation.*;
+
+import java.util.HashMap;
+import java.util.List;
+import java.util.Map;
+
+@Controller
+@Log4j2
+public class HomeContorller {
+
+    @Autowired
+    HomeService homeService;
+
+    @RequestMapping(value = "/")
+    public String stringIndex(ModelMap modelMap) {
+        return "redirect:/home/main";
+    }
+
+    @RequestMapping(value = "/index")
+    public String doIndex(ModelMap modelMap) {
+        Map<String, String> map = new HashMap<>();
+        map.put("test", "테스트입니다.");
+
+        modelMap.putAll(map);
+        return "index";
+    }
+
+    @RequestMapping(value = "/home/main")
+    public String doMain(ModelMap modelMap) {
+
+        List<AccountDTO> list = homeService.doMain();
+        
+        modelMap.put("data", list);
+
+        return "/contents/home/main";
+    }
+
+/*
+    @RequestMapping(method = RequestMethod.POST, value = "/home/ajaxCreateAccount")
+    public @ResponseBody Map<String, Object> createAcMaster(@RequestParam("title") String title,
+                                                            @RequestParam("subTitle") String subTitle,
+                                                            AccountDTO searchVO,
+                                                            HttpSession session ,
+                                                            Model model) throws Exception {
+
+        log.info("===================== title = {}, subTitle = {} =====================", title, subTitle);
+
+        Map<String, Object> map = new HashMap<String, Object>();
+        map.put("data", searchVO);
+        return null;
+    }
+*/
+
+    @RequestMapping(method = RequestMethod.POST, value = "/home/ajaxCreateAccount")
+    public @ResponseBody void createAcMaster(@RequestParam("title") String title,
+                                                            @RequestParam("subTitle") String subTitle,
+                                                            AccountDTO searchVO,
+                                                            HttpSession session ,
+                                                            Model model) throws Exception {
+
+        log.info("===================== title = {}, subTitle = {} =====================" , title, subTitle);
+        Map<String, String> map = new HashMap<>();
+        map.put("title", title);
+        map.put("subTitle", subTitle);
+        int cnt = homeService.createAcMater(map);
+
+    }
+}

@@ -1,0 +1,19 @@
+package com.gjcompany.accountbook.home.dto;
+
+import lombok.Data;
+import lombok.extern.log4j.Log4j2;
+import org.springframework.beans.factory.annotation.Autowired;
+
+@Data
+@Log4j2
+public class AccountDTO {
+
+    private int acNo;
+    private String id;
+    private String title;
+    private String subTitle;
+    private String insertDate;
+    private String updateDate;
+    
+
+}
